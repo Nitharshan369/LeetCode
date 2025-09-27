@@ -4,8 +4,10 @@ This repository contains my solutions to various LeetCode problems.
 Each solution is written with clean, readable, and optimized code.
 
 ## Structure
-- **Arrays/** → Problems related to arrays  
-- (More folders like `Strings/`, `LinkedList/`, `DP/`, etc. will be added later)
+- **Arrays/** → Problems related to arrays
+- **Linked List/** → Problems related to linked list
+- **Math/** → Problems related to math
+- (More folders like `Strings/`, `DP/`, etc. will be added later)
 
 ## Goals
 - Improve problem-solving skills  
