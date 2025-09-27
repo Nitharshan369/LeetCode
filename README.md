@@ -7,6 +7,8 @@ Each solution is written with clean, readable, and optimized code.
 - **Arrays/** → Problems related to arrays
 - **Linked List/** → Problems related to linked list
 - **Math/** → Problems related to math
+- **Binary Trees/** → Problems related to binary trees
+- **Binary Search Trees/** → Problems related to binary search trees
 - (More folders like `Strings/`, `DP/`, etc. will be added later)
 
 ## Goals
