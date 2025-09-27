@@ -1,0 +1,16 @@
+# LeetCode Solutions
+
+This repository contains my solutions to various LeetCode problems.  
+Each solution is written with clean, readable, and optimized code.
+
+## Structure
+- **Arrays/** → Problems related to arrays  
+- (More folders like `Strings/`, `LinkedList/`, `DP/`, etc. will be added later)
+
+## Goals
+- Improve problem-solving skills  
+- Write efficient and well-documented solutions  
+- Build a strong foundation in Data Structures & Algorithms  
+
+---
+🚀 Consistency is key — solving problems one step at a time!
