@@ -10,7 +10,8 @@ Each solution is written with clean, readable, and optimized code.
 - **Binary Trees/** → Problems related to binary trees
 - **Binary Search Trees/** → Problems related to binary search trees
 - **Strings/** → Problems related to strings
-- (More folders like `DP/`, etc. will be added later)
+- **Dynamic Programming/** → Problems related to Dynamic Programming
+- (More folders will be added later)
 
 ## Goals
 - Improve problem-solving skills  
