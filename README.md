@@ -9,7 +9,8 @@ Each solution is written with clean, readable, and optimized code.
 - **Math/** → Problems related to math
 - **Binary Trees/** → Problems related to binary trees
 - **Binary Search Trees/** → Problems related to binary search trees
-- (More folders like `Strings/`, `DP/`, etc. will be added later)
+- **Strings/** → Problems related to strings
+- (More folders like `DP/`, etc. will be added later)
 
 ## Goals
 - Improve problem-solving skills  
