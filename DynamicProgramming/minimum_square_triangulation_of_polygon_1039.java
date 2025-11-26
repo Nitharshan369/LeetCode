@@ -1,5 +1,3 @@
-package DynamicProgramming;
-
 class Solution {
     int[] values;
     int[][] memo;
